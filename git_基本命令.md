@@ -5,7 +5,7 @@
     git init
 
 下载一个项目和它的整个代码历史
-url格式：https://github.com/[userName]/reposName
+url格式："https://github.com/[userName]/reposName"
 
     git clone [url]
 
